@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZftdVkTQ3TmSf+uxEX4MOr6bpTqj9+nY8a0PKdXW7H+h0K4PzOexmasL2adLd5z0pFAja+MC1BToCFVc5FFiBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\CSharp\\CSharpStudy08\\클래스와 메소드\\클래스와 메소드.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
