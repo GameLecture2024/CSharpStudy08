@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xcsgs3WD+mwzvkvUnRSkmc31oK6uhIvXcXqGovr+oQ9hWpN6/BlMOe512XX1u1M4IoGSV0jIu6pQcrShlVc4VQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\CSharp\\CSharpStudy08\\코드흐름제어\\코드흐름제어.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

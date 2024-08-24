@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "코드흐름제어/1.0.0": {
+        "runtime": {
+          "코드흐름제어.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "코드흐름제어/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
