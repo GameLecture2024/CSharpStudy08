@@ -33,18 +33,19 @@ namespace 코드흐름제어
             Console.WriteLine("주말 C# 강의 3번째 클래스");
             Console.WriteLine("반복문과 조건문");
 
-            Console.Write("실행할 강의를 선택해주세요(1번 if조건문, 2번 switch 조건문, 3번 for, 4번 while) : ");
+            Console.Write("실행할 강의를 선택해주세요(1번 if조건문, 2번 switch 조건문, 3번 for, 4번 while, 5번 게임 시작) : ");
             int userInput = int.Parse(Console.ReadLine());
 
-            if(userInput == 1) 
-                 if조건문.Show();        // if문 강의 내용
-            else if(userInput == 2)
+            if (userInput == 1)
+                if조건문.Show();        // if문 강의 내용
+            else if (userInput == 2)
                 switch조건문.Show();    // switch문 강의 내용
-            else if(userInput == 3)
+            else if (userInput == 3)
                 for반복문.Show();                           // for문 강의 내용
-            else if(userInput == 4)
+            else if (userInput == 4)
                 while반복문.Show();                           // while문 강의 내용
-                                        // 게임 메인 화면 구성
+            else if (userInput == 5)
+                GameManager.ShowMenu();            // 게임 메인 화면 구성
         } // 프로그램이 종료된다.
     }
 }

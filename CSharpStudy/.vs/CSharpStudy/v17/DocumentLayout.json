@@ -3,19 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\CSharp\\CSharpStudy08\\CSharpStudy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5532C65A-A61E-468B-8669-0E034CAA22F5}|..\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4.csproj|c:\\users\\administrator\\desktop\\csharp\\csharpstudy08\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4\\for\uBC18\uBCF5\uBB38.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B270D298-ED9A-42A8-9D7A-1431F2E8F6BE}|..\\\uD074\uB798\uC2A4\uC640 \uBA54\uC18C\uB4DC\\\uD074\uB798\uC2A4\uC640 \uBA54\uC18C\uB4DC.csproj|c:\\users\\administrator\\desktop\\csharp\\csharpstudy08\\\uD074\uB798\uC2A4\uC640 \uBA54\uC18C\uB4DC\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5532C65A-A61E-468B-8669-0E034CAA22F5}|..\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4.csproj|c:\\users\\administrator\\desktop\\csharp\\csharpstudy08\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5532C65A-A61E-468B-8669-0E034CAA22F5}|..\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4.csproj|c:\\users\\administrator\\desktop\\csharp\\csharpstudy08\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5532C65A-A61E-468B-8669-0E034CAA22F5}|..\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4.csproj|c:\\users\\administrator\\desktop\\csharp\\csharpstudy08\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4\\while\uBC18\uBCF5\uBB38.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5532C65A-A61E-468B-8669-0E034CAA22F5}|..\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4.csproj|c:\\users\\administrator\\desktop\\csharp\\csharpstudy08\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4\\if\uC870\uAC74\uBB38.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5532C65A-A61E-468B-8669-0E034CAA22F5}|..\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4.csproj|c:\\users\\administrator\\desktop\\csharp\\csharpstudy08\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4\\for\uBC18\uBCF5\uBB38.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5532C65A-A61E-468B-8669-0E034CAA22F5}|..\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4.csproj|c:\\users\\administrator\\desktop\\csharp\\csharpstudy08\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4\\switch\uC870\uAC74\uBB38.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5532C65A-A61E-468B-8669-0E034CAA22F5}|..\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4.csproj|c:\\users\\administrator\\desktop\\csharp\\csharpstudy08\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4\\if\uC870\uAC74\uBB38.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE7E62E2-DE05-405C-96A8-DB07D2241AE2}|CSharpStudy.csproj|c:\\users\\administrator\\desktop\\csharp\\csharpstudy08\\csharpstudy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,20 +36,33 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "while\uBC18\uBCF5\uBB38.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CSharp\\CSharpStudy08\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4\\while\uBC18\uBCF5\uBB38.cs",
-              "RelativeDocumentMoniker": "..\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4\\while\uBC18\uBCF5\uBB38.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CSharp\\CSharpStudy08\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4\\while\uBC18\uBCF5\uBB38.cs",
-              "RelativeToolTip": "..\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4\\while\uBC18\uBCF5\uBB38.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAJAAAA",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CSharp\\CSharpStudy08\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4\\GameManager.cs",
+              "RelativeDocumentMoniker": "..\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CSharp\\CSharpStudy08\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4\\GameManager.cs",
+              "RelativeToolTip": "..\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T06:34:37.892Z",
+              "WhenOpened": "2024-08-24T07:47:31.389Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CSharp\\CSharpStudy08\\\uD074\uB798\uC2A4\uC640 \uBA54\uC18C\uB4DC\\Program.cs",
+              "RelativeDocumentMoniker": "..\\\uD074\uB798\uC2A4\uC640 \uBA54\uC18C\uB4DC\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CSharp\\CSharpStudy08\\\uD074\uB798\uC2A4\uC640 \uBA54\uC18C\uB4DC\\Program.cs",
+              "RelativeToolTip": "..\\\uD074\uB798\uC2A4\uC640 \uBA54\uC18C\uB4DC\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAIwBIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T07:47:38.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "for\uBC18\uBCF5\uBB38.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CSharp\\CSharpStudy08\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4\\for\uBC18\uBCF5\uBB38.cs",
               "RelativeDocumentMoniker": "..\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4\\for\uBC18\uBCF5\uBB38.cs",
@@ -72,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "if\uC870\uAC74\uBB38.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CSharp\\CSharpStudy08\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4\\if\uC870\uAC74\uBB38.cs",
               "RelativeDocumentMoniker": "..\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4\\if\uC870\uAC74\uBB38.cs",
@@ -80,25 +96,24 @@
               "RelativeToolTip": "..\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4\\if\uC870\uAC74\uBB38.cs",
               "ViewState": "AQIAADEAAAAAAAAAAAAgwE8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T05:26:45.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T05:26:45.641Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CSharp\\CSharpStudy08\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4\\Program.cs",
               "RelativeDocumentMoniker": "..\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4\\Program.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CSharp\\CSharpStudy08\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4\\Program.cs",
               "RelativeToolTip": "..\\\uCF54\uB4DC\uD750\uB984\uC81C\uC5B4\\Program.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAAADIAAAAAAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAMwC8AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-24T05:07:10.835Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CSharp\\CSharpStudy08\\CSharpStudy\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -106,8 +121,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAACoAAAAAAAAAAAAAALUAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T05:22:00.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-10T05:22:00.328Z"
             }
           ]
         }

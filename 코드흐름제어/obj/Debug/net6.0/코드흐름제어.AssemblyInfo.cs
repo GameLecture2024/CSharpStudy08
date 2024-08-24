@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("코드흐름제어")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85e24e050d69b00704a153aa6d6ccb4ac0d73960")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1016e803c165935dd21f9a41c799e73e554b8b49")]
 [assembly: System.Reflection.AssemblyProductAttribute("코드흐름제어")]
 [assembly: System.Reflection.AssemblyTitleAttribute("코드흐름제어")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
