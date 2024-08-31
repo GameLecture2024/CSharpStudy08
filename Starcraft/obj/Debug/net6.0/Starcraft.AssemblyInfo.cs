@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("코드흐름제어")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Starcraft")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49a6cffefedcba1ff01dd951ac579030e8aab068")]
-[assembly: System.Reflection.AssemblyProductAttribute("코드흐름제어")]
-[assembly: System.Reflection.AssemblyTitleAttribute("코드흐름제어")]
+[assembly: System.Reflection.AssemblyProductAttribute("Starcraft")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Starcraft")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.

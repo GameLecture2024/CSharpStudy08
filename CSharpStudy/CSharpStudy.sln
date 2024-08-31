@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpStudy", "CSharpStudy.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "클래스와 메소드", "..\클래스와 메소드\클래스와 메소드.csproj", "{B270D298-ED9A-42A8-9D7A-1431F2E8F6BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "코드흐름제어", "..\코드흐름제어\코드흐름제어.csproj", "{5532C65A-A61E-468B-8669-0E034CAA22F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "코드흐름제어", "..\코드흐름제어\코드흐름제어.csproj", "{5532C65A-A61E-468B-8669-0E034CAA22F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "클래스 상속", "..\클래스 상속\클래스 상속.csproj", "{A9FC8668-0566-4B5D-9AA4-AAD99E513DB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starcraft", "..\Starcraft\Starcraft.csproj", "{9B5E6F1F-E96C-47C9-991A-F7C177C385AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{5532C65A-A61E-468B-8669-0E034CAA22F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5532C65A-A61E-468B-8669-0E034CAA22F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5532C65A-A61E-468B-8669-0E034CAA22F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9FC8668-0566-4B5D-9AA4-AAD99E513DB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9FC8668-0566-4B5D-9AA4-AAD99E513DB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9FC8668-0566-4B5D-9AA4-AAD99E513DB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9FC8668-0566-4B5D-9AA4-AAD99E513DB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B5E6F1F-E96C-47C9-991A-F7C177C385AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B5E6F1F-E96C-47C9-991A-F7C177C385AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B5E6F1F-E96C-47C9-991A-F7C177C385AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B5E6F1F-E96C-47C9-991A-F7C177C385AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
